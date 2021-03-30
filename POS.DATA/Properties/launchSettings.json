@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "POS.Data": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Key": "Value"
+      }
+    }
+  }
+}
